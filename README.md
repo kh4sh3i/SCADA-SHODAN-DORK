@@ -36,6 +36,6 @@
 25.SCADA system with exposed EtherNet/IP: XYZ port:44818
 ```
 
-## Refrences
+## references
 * [hackers arise](https://www.hackers-arise.com/post/2016/06/30/hacking-scada-finding-scada-systems-using-shodan)
 
